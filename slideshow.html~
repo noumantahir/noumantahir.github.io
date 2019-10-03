@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+
+    <head>
+        <link rel="stylesheet" href="slideshow.css">
+    </head>
+<div class="slide">
+<img src="screen-1.png"  alt="" />
+<img src="screen-2.png"  alt="" />
+<img src="screen-3.png"  alt="" />
+<img src="screen-4.png"  alt="" />
+</div>

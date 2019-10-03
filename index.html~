@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Afrikasa</title>
+        <meta name="description" content="Africa Speak! Let you voice be heard">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,300,700,600,500' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700' rel='stylesheet' type='text/css'>
+
+
+        <link rel="stylesheet" href="css/slicknav.css">
+        <link rel="stylesheet" href="css/owl.theme.css">
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css/owl.transitions.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/responsive.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+
+         <!-- header Start
+         ================================================= -->
+
+
+
+        <!-- Slider Start
+        ============================================================== -->
+
+        <section id="slider">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="block-left">
+                            <div class="slider-text-area">
+                                <div class="slider-text">
+                                    <img src="img/logo.png" alt="">
+                                    <h2>Africa Speak!<br></h2>
+                                    <p class="sub-slider-text">Let your voice be heard!</p>
+
+                                    <p class="slider-p">Afrikasa gives the African continent the power to speak, entertain, <br>
+                                    discover and share original content instantly, without boundaries.</p>
+                                    <button type="button" class="android-btn" onclick="window.open('https://play.google.com/store/apps/details?id=org.hawkdev.apps.afrikasa.release')"></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .col-md-12 close -->
+
+                    <div class="col-md-6">
+                        <div class="block-right">
+                          <div class="slider-img">
+                                <img src="img/mobile-phon-0.png" class="crossfade-frame" alt="">
+                                <img src="img/screen-3.png" class="crossfade-phone" alt="">
+                                <img src="img/screen-2.png" class="crossfade-phone" alt="">
+                                <img src="img/screen-1.png" class="crossfade-phone" alt="">
+                                <img src="img/screen-0.png" class="crossfade-phone" alt="">
+                                <img src="img/screen-4.png" class="crossfade-phone" alt="">
+                          </div>
+                        </div>
+                    </div><!-- .col-md-12 close -->
+
+                </div><!-- .row close -->
+            </div><!-- .container close -->
+        </section><!-- #slider close -->
+
+        <!-- Service Start
+        ============================================================= -->
+        <!-- Contant-2 Start
+        =============================================================== -->
+
+        <section id="contant-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="block-left">
+                            <div class="content-2-img">
+                                <img src="img/mobile-phon-3.png" class="crossfade-frame" alt="img">
+
+                                <img src="img/content-1-screen-3.png" class="crossfade-phone-2" alt="">
+                                <img src="img/content-1-screen-2.png" class="crossfade-phone-2" alt="">
+                                <img src="img/content-1-screen-1.png" class="crossfade-phone-2" alt="">
+                                <img src="img/content-1-screen-0.png" class="crossfade-phone-2" alt="">
+                                <img src="img/content-1-screen-4.png" class="crossfade-phone-2" alt="">
+                            </div>
+                        </div>
+                    </div><!-- .col-md-6 close -->
+
+                    <div class="col-md-6">
+                        <div class="block-right">
+                            <div class="contant-2-text-area">
+                                <div class="contant-2-header">
+                                    <h1>About Us</h2>
+                                </div>
+                                <div class="contant-2-text">
+                                   <!-- <h2>Duis bibendum diam non <br> erat facilisis tincidunt.</h3> -->
+                                   <p>Afrikasa gives the African continent the power to speak, entertain, discover and share original content instantly, without boundaries. The content, entertainment, lifestyle and discussions on Afrikasa are based on African pop-culture and strictly created for Africans and those living abroad!!. </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .col-md-6 close -->
+                </div><!-- .row close -->
+            </div><!-- .container close -->
+        </section><!-- #contant-2 close -->
+
+
+        <!-- contant-1 start
+        ===================================================== -->
+
+        <section id="contant-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="block-left">
+                            <div class="contant-1-text-area">
+                                <div class="contant-1-head">
+                                    <h1>Our Mission</h1>
+                                </div>
+                                <div class="contant-1-text">
+                                    <!-- <h2>Duis bibendum diam non <br> erat facilisis tincidunt.</h2> -->
+                                    <p>Our mission is to empower Africans to express themselves, learn about Africa and the world, share news and content live, have fun and entertain each other through comedy, music, sports and more. </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .col-md-6 close -->
+                    <div class="col-md-6">
+                        <div class="block-right">
+                            <div class="content-1-img">
+                                <img src="img/mobile-phon-1.png" class="crossfade-frame-1" alt="img">
+                                <img src="img/content-2-screen-3.png" class="crossfade-phone-1" alt="">
+                                <img src="img/content-2-screen-2.png" class="crossfade-phone-1" alt="">
+                                <img src="img/content-2-screen-1.png" class="crossfade-phone-1" alt="">
+                                <img src="img/content-2-screen-0.png" class="crossfade-phone-1" alt="">
+                                <img src="img/content-2-screen-4.png" class="crossfade-phone-1" alt="">
+                            </div>
+                        </div>
+                    </div><!-- .col-md-6 close -->
+                </div><!-- .row close -->
+            </div><!-- .container close -->
+        </section><!-- #contant-1 close -->
+
+
+
+      <!--  ============================================================= -->
+
+        <section id="testimonial">
+            <div class="container">
+                <div class="row">
+
+                  <div class="col-md-6">
+                    <div class="block-left">
+                      <div class="contant-2-img">
+                        <img src="img/africa-map.png" alt="img">
+                      </div>
+                    </div>
+                  </div>
+
+                    <div class="col-md-6">
+
+                        <div class="block-right">
+                            <div class="testimonial-area">
+                                <div class="tm-header">
+                                    <h2>What people say about Afrikasa</h2>
+                                </div>
+                                <div class="tm-contant">
+									<div class="tm-contant-items" id="slide-testimonial">
+										<div class="tm-contant-list item">
+											<div class="tm-img">
+												<img src="img/pepole-img_1.png" alt="img">
+											</div>
+											<div class="tm-text">
+												<p>" This is a cool app and easy to use. I am going to get all my friends to join in and share out thoughts. Kudos guyz. Keep up the good work for our community." <span>- Joseph Tsifoaka</span></p>
+											</div>
+										</div>
+										<div class="tm-contant-list item">
+											<div class="tm-img">
+												<img src="img/pepole-img_2.png" alt="img">
+											</div>
+											<div class="tm-text">
+												<p>" The beginning of a new era! Love this app. This is going to be a great app, watch out for it!" <span>- Edem Kofi</span></p>
+											</div>
+										</div>
+										<div class="tm-contant-list item">
+											<div class="tm-img">
+												<img src="img/pepole-img_3.png" alt="img">
+											</div>
+											<div class="tm-text">
+												<p>" Easy to use app n it is must have app for every african" <span>- Solomon Oppong</span></p>
+											</div>
+										</div>
+									</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .col-md-12 close -->
+                </div><!-- .row close -->
+            </div><!-- .container close -->
+        </section><!-- #testimonial close -->
+
+
+
+        <!-- Submit Start
+        ======================================================== -->
+
+        <section id="privacy">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="block">
+                          <div class="privacy-text-area">
+                              <div class="privacy-header">
+                                  <h1>Our Privacy and Terms of Usage</h1>
+                              </div>
+                              <div class="privacy-text">
+                                 <h2>Terms of use</h3>
+                                 <p>
+
+  Welcome to afrikasa.me. Afrikasa Media LLC and/or its affiliates ("afrikasa") provide website and mobile app features and other products and services to you when you visit or platform at afrikasa.me, use afrikasa products or services, use afrikasa applications for mobile, or use software provided by Afrikasa in connection with any of the foregoing (collectively, "Afrikasa Services"). Afrikasa provides the services subject to the following conditions.....<a href="terms.html">read more</a><br>
+</p>
+
+
+<br><br>
+
+<!-- add button for showing privacy policy -->
+<!-- <button type="button" class="btn btn-default edit-button-3">VIEW MORE</button> -->
+ <h2> Privacy Policy </h2>
+
+ <p>Afrikasa Media is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Policy describes the types of information collected from you, what the APP does with it, with whom it shares the information, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal information....<a href="privacy.html">read more</a>
+</p>
+
+                              </div>
+                          </div>
+                        </div>
+                    </div><!-- .col-md-12 -->
+                </div><!-- .row close -->
+            </div><!-- .container close -->
+        </section><!-- #submit close -->
+
+
+        <!-- footer Start
+        ====================================================================== -->
+
+        <section id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="block">
+                            <div class="footer-contant">
+                                <h3>Say Hi, Get In Touch</h3>
+                                <div class="social-icon">
+                                    <a href="https://www.facebook.com/Afrikasa-227706974351500/"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.instagram.com/afrikasa/"><i class="fa fa-instagram"></i></a>
+                                    <a href="https://www.google.com"><i class="fa fa-google"></i></a>
+                                    <a href="https://www.flickr.com"><i class="fa fa-flickr"></i></a>
+                                    <a href="https://www.youtube.com"><i class="fa fa-youtube"></i></a>
+                                </div>
+                                <div class="support-link">
+                                    <ul>
+                                        <li><a href="mailto:pacheamp@afrikasa.me">Contact</a></li>
+                                        <li><a href="https://www.twitter.com">Twitter</a></li>
+                                        <!-- <li><a href="#">Press</a></li> -->
+                                        <li><a href="mailto:feedback.afrikasa@gmail.com">Support</a></li>
+                                        <li><a href="terms.html">Terms</a></li>
+                                        <li><a href="privacy.html">Privacy</a></li>
+ 					<li><a href="my-blog.html">My Blog</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- col-md-12 -->
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </section><!-- #footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+
+            $(function(){
+              $('#btn-show-terms').click(function() {
+                $('#terms-of-use-dialog').dialog({background: #FFFFFF; height: 300});
+              });
+            });
+        </script>
+    </body>
+</html>

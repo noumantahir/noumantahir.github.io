@@ -1,0 +1,41 @@
+.slide {
+    position:absolute;
+}
+
+.slide:nth-child(1) {
+    -webkit-animation: fade 8s 6s infinite;
+    z-index:10;
+}
+
+.slide:nth-child(2) {
+    -webkit-animation: fade 8s 4s infinite;
+    z-index:10;
+}
+
+.slide:nth-child(3) {
+    -webkit-animation: fade 8s 2s infinite;
+    z-index:10;
+}
+
+.slide:nth-child(4) {
+    -webkit-animation: fade 8s 0s infinite; 
+    z-index:10;
+}
+
+@-webkit-keyframes fade {
+    0%{
+      opacity: 1;
+   }
+   15% {
+      opacity:1;
+   }
+   25%{
+      opacity: 0;
+   }
+   90% {
+      opacity:0;
+   }
+   100% {
+      opacity:1;
+   }
+}
